@@ -9,7 +9,7 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
-    //somechange
+    //https://javapapers.com/android/android-studio-git-tutorial/
 
     public void GoPIP(View v){
             enterPictureInPictureMode();
